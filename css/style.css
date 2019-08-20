@@ -9530,18 +9530,16 @@ textarea.form-control {
 
 .b
 {
-  border-radius: 25px;
-  background: white;
+  border-radius: 15px;
+  background-color: white;
+  color: green;
   width: 150px;
-  height: 45px;
+  height: 55px;
 }
 .b:hover
 {
-  border-radius: 25px;
-  background: #00FFFF;
-  color: white;
   width: 152px;
-  height: 47px;
+  height: 57px;
 }
 .test{
   background-color: #C1CADE;
